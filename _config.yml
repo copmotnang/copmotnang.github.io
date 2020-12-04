@@ -10,7 +10,7 @@ title: Code can run
 email: copmotnang@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
   Write a code ! it can run ! dont care bugs !
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "https://copmotnang.github.io" # the subpath of your site, e.g. /blog
 url: "https://copmotnang.github.io" # the base hostname & protocol for your site
 twitter_username: holalatiger
 github_username:  copmotnang 
